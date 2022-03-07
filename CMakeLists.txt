@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.14.0)
 
 # 프로젝트 정보
 project(
-  OpenCV-Gtest
+  VSCODE-CPP-CMAKE-GTEST
   VERSION 0.1
   DESCRIPTION "예제 프로젝트"
   LANGUAGES CXX)
