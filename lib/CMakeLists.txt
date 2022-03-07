@@ -20,5 +20,3 @@ target_compile_features(drawing PRIVATE cxx_std_11)
 
 # drawing 에 링크
 target_link_libraries(drawing PUBLIC ${OpenCV_LIBS})
-
-
