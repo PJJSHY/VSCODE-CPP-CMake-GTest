@@ -1,5 +1,5 @@
 # OpenCV 참조 설정(OpenCV 설치 위치 기술)
-set(OpenCV_DIR C:/OpenCV-MinGW-Build-OpenCV-4.5.5-x64/)
+set(OpenCV_DIR C:/opencv-4.1.1-mingw/)
 find_package( OpenCV REQUIRED )
 
 # 현재 디렉토리에 있는 모든 파일을 SRC_FILES 변수에 추가
